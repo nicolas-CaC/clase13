@@ -24,6 +24,8 @@ paraCambiar = '2';
 let pregunta = paraCambiar === 2
 let pregunta2 = paraCambiar == 2
 
+// Condicionales
+
 if (pregunta) {
     console.log('\n\nparaCambiar es igual a dos')
 } else {
